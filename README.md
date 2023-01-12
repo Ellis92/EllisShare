@@ -1,5 +1,6 @@
 # EllisCollection
 各种地方淘来的好东西，分享给有需要的人
+[index]: index.md
 
 # 推荐
 阿虚同学的储物间[https://axutongxue.com/](https://axutongxue.com/)   <br />
