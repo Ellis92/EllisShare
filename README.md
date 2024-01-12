@@ -3,9 +3,7 @@
 ✈Notion最新版链接
 [https://plant-resolution-0a6.notion.site/RSS-f63b08a2a00a4dd88fae14ee5c6cfb72?pvs=4](https://www.notion.so/RSS-f63b08a2a00a4dd88fae14ee5c6cfb72?pvs=21)
 
-💾自用OPML文件分享：
-下载后拓展名.txt改为.OPML
-https://netcut.cn/p/d526aeeb348e4221
+💾自用OPML分享https://github.com/Ellis92/EllisShare 下载Fluent_Reader_Export.opml
 
 ❓RSS介绍：
 阿虚同学https://zhuanlan.zhihu.com/p/349349861
