@@ -1,5 +1,5 @@
 # Ellis自用RSS分享
-
+⚠⚠⚠plink.anyfeeder失效，正在寻找替代源,准备切换成表格形式，新版见Notion
 ✈Notion最新版链接
 [https://plant-resolution-0a6.notion.site/RSS-f63b08a2a00a4dd88fae14ee5c6cfb72?pvs=4](https://www.notion.so/RSS-f63b08a2a00a4dd88fae14ee5c6cfb72?pvs=21)
 
@@ -75,20 +75,7 @@ https://www.solidot.org/index.rss
  http://www.geekpark.net/rss
 18. **站长之家**
  http://app.chinaz.com/?app=rss
-19. **MIT 科技评论 - 本周热榜**
-https://plink.anyfeeder.com/mittrchina/hot
-20. **雷峰网**
-https://plink.anyfeeder.com/leiphone
-21. **果壳网 科学人**
-https://plink.anyfeeder.com/guokr/scientific
-22. **FreeBuf网络安全行业门户**
-https://plink.anyfeeder.com/freebuf
-23. **科学空间**
-https://kexue.fm/feed
-24. **软餐-新鲜软件资讯**
-https://plink.anyfeeder.com/ruancan
-25. **数字尾巴**
-https://plink.anyfeeder.com/dgtle
+
 
 # 推荐分享⭐️
 
@@ -226,26 +213,7 @@ https://inote.xyz/rss.xml
 24. **别的**
 https://www.biede.com/feed/
 
-# 免翻新闻⭐️
 
-1. **喷嚏网**
-包含喷嚏图卦，偶尔有值得看的文章
-https://plink.anyfeeder.com/dapenti/xilei
-⭐️⭐️⭐️喷嚏图卦，每日正能量新闻（笑）
-https://plink.anyfeeder.com/pentitugua
-2. **BBC**
-⭐️顶级新闻团伙
-https://plink.anyfeeder.com/bbc/cn
-3. **法广**
-https://plink.anyfeeder.com/rfi/cn
-4. **美国之音**
-https://plink.anyfeeder.com/voa/chinese
-5. **纽约时报**
-https://plink.anyfeeder.com/nytimes/cn
-双语版
-https://plink.anyfeeder.com/nytimes/dual
-6. **澳大利亚广播公司**
-https://plink.anyfeeder.com/abc/cn
 
 # 综合⭐️
 
@@ -275,116 +243,8 @@ https://riichiie.net/feed/
 https://taiwan.chtsai.org/feed/
 12. **HEAVEN RAVEN**
 https://www.heavenraven.com/?feed=rss2
-13. **品玩**
-https://plink.anyfeeder.com/pingwest
-14. **商业 - 财富中文网** - FORTUNEChina.com
-https://plink.anyfeeder.com/fortunechina/shangye
-15. **新浪专栏-创事记**
-https://plink.anyfeeder.com/sina/csj
-16. **煎蛋**
-https://plink.anyfeeder.com/jiandan
-17. **人人都是产品经理**
-https://plink.anyfeeder.com/woshipm/popular
-18. **虎嗅**
-https://plink.anyfeeder.com/huxiu
-19. **左岸读书**
- http://www.zreading.cn/feed
-20. **VOICER**
- http://www.voicer.me/feed
-21. **厘米天空**
- http://www.cmsky.com/feed/
-22. **豆瓣最受欢迎的影评**
-https://plink.anyfeeder.com/douban/review/movie
-23. **豆瓣最受欢迎的书评**
-https://plink.anyfeeder.com/douban/review/book
 
-# 微信公众号源⭐️
 
-💡没有找到微信RSS源但非常推荐的公众号：3DM游戏网、游民星空；胡萝卜周、网罗灯下黑等需要在公众号回复以获取资源的都没有列出
-
-1. **环球科学**
-https://plink.anyfeeder.com/weixin/ScientificAmerican
-2. **医学界**
-https://plink.anyfeeder.com/weixin/yixuejiezazhi
-3. **三联生活周刊**
-⭐️⭐️
-https://plink.anyfeeder.com/weixin/lifeweek
-4. **青年文摘**
-⭐️
-https://plink.anyfeeder.com/weixin/qnwzwx
-5. **利维坦**
-科学，哲学，反鸡汤
-https://plink.anyfeeder.com/weixin/liweitan2014
-6. **Vista看天下**
-https://plink.anyfeeder.com/weixin/vistaweek
-7. **十点读书**
-https://plink.anyfeeder.com/weixin/duhaoshu
-8. **笔记侠**
-https://plink.anyfeeder.com/weixin/Notesman
-9. **香港凤凰周刊**
-"https://plink.anyfeeder.com/weixin/phoenixweekly
-10. **机器之心**
-https://plink.anyfeeder.com/weixin/almosthuman2014
-11. **新京报书评周刊**
-https://plink.anyfeeder.com/weixin/ibookreview
-12. **理想岛**
-https://plink.anyfeeder.com/weixin/lixiangdao002
-13. **刘润**
-https://plink.anyfeeder.com/weixin/runliu-pub
-14. **界面**
-https://plink.anyfeeder.com/weixin/wowjiemian
-15. **虎嗅网**
-https://plink.anyfeeder.com/weixin/huxiu_com
-16. **槽边往事**
-https://plink.anyfeeder.com/weixin/bitsea
-17. **南方周末**
-https://plink.anyfeeder.com/weixin/nanfangzhoumo
-18. **国家人文历史**
-https://plink.anyfeeder.com/weixin/gjrwls
-19. **人物**
-https://plink.anyfeeder.com/weixin/renwumag1980
-20. **洞见**
-https://plink.anyfeeder.com/weixin/DJ00123987
-21. **新世相**
-https://plink.anyfeeder.com/weixin/thefair2
-22. **译言**
-https://plink.anyfeeder.com/weixin/yeeyancom
-23. 魔宙
-https://plink.anyfeeder.com/weixin/mzmojo
-24. 架构师之路
-https://plink.anyfeeder.com/weixin/gh_10a6b96351a9
-25. 棱镜
-https://plink.anyfeeder.com/weixin/lengjing_qqfinance
-26. 果壳网
-https://plink.anyfeeder.com/weixin/Guokr42
-27. MacTalk
-https://plink.anyfeeder.com/weixin/sagacity-mac
-28. 第一财经周刊
-https://plink.anyfeeder.com/weixin/CBNweekly2008
-29. 小道消息
-https://plink.anyfeeder.com/weixin/WebNotes
-30. 单读
-https://plink.anyfeeder.com/weixin/dandureading
-31. 南都周刊
-https://plink.anyfeeder.com/weixin/nbweekly
-32. 读库小报
-https://plink.anyfeeder.com/weixin/dukuxiaobao
-33. 微软研究院AI头条
-"https://plink.anyfeeder.com/weixin/MSRAsia
-34. 腾讯科技
-https://plink.anyfeeder.com/weixin/qqtech
-35. 新智元
-https://plink.anyfeeder.com/weixin/AI_era
-36. 物种日历
-https://plink.anyfeeder.com/weixin/guokrpac
-37. X博士
-https://plink.anyfeeder.com/weixin/doctorx666
-38. 看理想
-https://plink.anyfeeder.com/weixin/ikanlixiang
-39. 中国国家地理
-https://plink.anyfeeder.com/weixin/dili360
-40. CSDN
-https://plink.anyfeeder.com/weixin/CSDNnews
 
 # 🚗源汇总⭐️
 
